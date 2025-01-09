@@ -2,17 +2,17 @@
 // Crea una variabile chiamata name e assegnale il tuo nome.
 // Stampa il valore di nome nella console.
 
-let name = "Vincenzo"; 
-console.log(name);
+let Name = "Vincenzo"; 
+console.log(Name);
 
 // 2. Tipi primitivi
 // Crea tre variabili chiamate number, text e bool e assegna rispettivamente
 // un numero, una stringa e un valore booleano.
 // Stampa tutti i valori nella console.
 
-let number = 29
-let text = "Amari"
-let bool = 1
+let number = 29;
+let text = "Amari";
+let bool = 1;
 
 console.log(number);
 console.log(text);
